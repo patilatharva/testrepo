@@ -4,4 +4,4 @@ s1
 
 s2
 
-s4 amend 2
+s4 amend 3
