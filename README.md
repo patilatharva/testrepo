@@ -1,8 +1,4 @@
 # testrepo
 
-s1
-
-s2
-
-s3
+branch 1
 
